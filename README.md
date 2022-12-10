@@ -1,5 +1,5 @@
 ## Offline-4D-BPP-DRL (Offline, Multi-items, Multi-Bins Packing)
-**Pack multiple items into minimum number of containers**
+**Pack multiple items into minimum number of containers. 50+% reduction in containers in non-trivial scenarios (3+ items).
 
 ## Sections:
 - [Sec A. Code Structure and overview](#code-structure)
