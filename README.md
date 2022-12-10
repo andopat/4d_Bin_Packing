@@ -328,6 +328,6 @@ First Install Docker: https://docs.docker.com/get-docker/
 **4. Learning Efficient Online 3D Bin Packing on Packing Configuration Trees**
 
 - Paper Link: https://openreview.net/pdf?id=bfuGjlCwAq
-- GutHub: https://github.com/alexfrom0815/Online-3D-BPP-PCT
+- GitHub: https://github.com/alexfrom0815/Online-3D-BPP-PCT
 
 
