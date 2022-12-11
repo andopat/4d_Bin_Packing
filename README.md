@@ -1,5 +1,7 @@
-## Offline-4D-BPP-DRL (Offline, Multi-items, Multi-Bins Packing)
-**Pack multiple items into minimum number of containers. 50+% reduction in containers in non-trivial scenarios (3+ items).
+## 3D Warehouse Cubing with Weight
+**Pack multiple items into minimum number of containers. 
+**This was developed to help warehouses uses less boxes when shipping
+**50+% reduction in containers in non-trivial scenarios (3+ items).
 
 ## Sections:
 - [Sec A. Code Structure and overview](#code-structure)
